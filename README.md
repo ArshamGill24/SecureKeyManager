@@ -26,5 +26,5 @@ Cryptography (AES, RSA)
 Arduino UART Communication
 
 ## Note
-# For security reasons, the full code is not published publicly.
+### For security reasons, the full code is not published publicly.
 If you require access to the code or a detailed walkthrough, please email me at: gillarsham35@gmail.com
